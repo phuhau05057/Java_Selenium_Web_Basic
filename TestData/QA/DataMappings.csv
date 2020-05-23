@@ -1,0 +1,14 @@
+test_case_id,data_type,data_folder,data_file_path
+tc002_VerifyGoogleSearchPageWithData,CSV,,GoogleSearchText.csv
+tc004_VerifyGoogleSearchPageWithData1,CSV,,GoogleSearchText.csv
+tc003_VerifyGetPostObjectByIdSuccessfully,CSV,,RestAPIDemo.csv
+HN001_VerifyUserCanAddANewInventory,CSV,Inventory,HN001.csv
+HN002_VerifyUserCanSearchForAnExistingInventory,CSV,Inventory,HN002.csv
+HN003_VerifyCanUpdateAnItemFromInventory,CSV,Inventory,HN003.csv
+HN004_VerifyCanDeleteAnItemFromInventory,CSV,Inventory,HN004.csv
+HN006_VerifyMessageIsDisplayedWhenUserSearchesForNonExistingInventory,CSV,Inventory,HN006.csv
+HN013_VerifyUserCanAddNewCategory,CSV,Inventory,HN013.csv
+HN014_VerifyUserCanUpdateCategory,CSV,Inventory,HN014.csv
+HN015_VerifyUserCanDeleteCategory,CSV,Inventory,HN015.csv
+HN016_VerifyUserCanNotAddDuplicateCategory,CSV,Inventory,HN016.csv
+HN017_VerifyUserCannotDeleteCategory,CSV,Inventory,HN017.csv
